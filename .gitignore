@@ -1,0 +1,22 @@
+# Temporary files
+*.tmp
+*.swp
+*.log
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+*.egg
+*.log
+*.pot
+*.pyc
+*.pyo
+*.log
+*.sqlite
+*.tgz
